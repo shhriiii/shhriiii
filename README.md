@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs, Node.js**
 
-- 💬 Ask me about **DSA,CP,Web Dev**
+- 💬 Ask me about **DSA, CP, Web Dev**
 
 - 📫 How to reach me **shriyansh363@gmail.com**
 
